@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+<h1>Basic uniswap contract</h1>
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+<p>
+  Click <a href="https://www.youtube.com/watch?v=GwMyv7CmoRs">here</a> for the
+  resource.
+</p>
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+<p>
+  Click <a href="https://docs.uniswap.org/contracts/v3/overview">here</a> for the
+  resource.
+</p>
